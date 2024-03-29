@@ -35,6 +35,14 @@ The main script processes the images, creates the model, and runs the training a
 9. Evaluate the model's performance on the training, validation, and test sets.
 10. Apply post-processing to correct predictions and evaluate the final accuracy.
 
+## Result Analysis
+
+- Model Accuracy on training set:  0.999
+- Model Accuracy on validation set:  0.806
+- Model Accuracy on test set:  0.813
+
+
+The main script processes the images, creates the model, and runs the training and validation cycles. Here are the steps to execute the project:
 ## Usage
 To run this project, ensure that the data path is set to the location of your CAPTCHA dataset, and then execute the script. Make sure all the dependencies are installed in your environment.
 
