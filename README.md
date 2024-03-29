@@ -1,4 +1,4 @@
-# CAPTCHA Image Prediction Project
+# CAPTCHA Image Detection Project
 
 ## Overview
 This project implements a Convolutional Recurrent Neural Network (CRNN) to predict the text content of CAPTCHA images. The model combines convolutional layers, recurrent layers, and a final dense layer to process and predict sequences of characters from image data.
